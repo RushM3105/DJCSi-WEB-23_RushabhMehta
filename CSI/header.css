@@ -1,0 +1,47 @@
+
+.header {
+    display: flex;
+    height: 75px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+
+}
+.logo {
+    margin-top: 7px;
+    width: 110px;
+    display: grid;
+    margin-right: 700px;
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+}
+button {
+    margin-top: 25px;
+    
+    background-color: #4018b2;
+    color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button1:hover {
+    opacity: 0.5;
+}
+.button2:hover {
+    opacity: 0.5;
+}
+.button3:hover {
+    opacity: 0.5;
+}
+.button4:hover {
+    opacity: 0.5;
+}
+.button5:hover {
+    opacity: 0.5;
+}
+.logo:active {
+    opacity: 0.3;
+}

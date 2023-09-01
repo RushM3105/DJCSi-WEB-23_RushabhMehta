@@ -1,0 +1,112 @@
+.features-text1 {
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 175px;
+
+}
+.bada {
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    font-weight: bolder;
+    font-size: x-small;
+    margin-bottom: 0px;
+    
+}
+.chota {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    width: 200px;
+    font-size: xx-small;
+}
+.image1 {
+  position: absolute;
+  left: 190px;
+  top: 10px;
+
+}
+.features-text2 {
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 275px;
+
+}
+.image2 {
+    position: absolute;
+    left: 190px;
+    top: 10px;
+  
+  }
+  .features-text3 {
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 375px;
+  }
+  .image3 {
+    position: absolute;
+    left: 190px;
+    top: 10px;
+  
+  }
+  .features-text4 {
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+    top: 475px;
+  }
+  .image4 {
+    position: absolute;
+    left: 190px;
+    top: 10px;
+  
+  }
+  .features-text5 {
+    display: inline-block;
+    position: absolute;
+    left: 900px;
+    top: 175px;
+  }
+  .image5 {
+    position: absolute;
+    right: 105px;
+    top: 5px;
+  
+  }
+  .features-text6 {
+    display: inline-block;
+    position: absolute;
+    left: 900px;
+    top: 275px;
+  }
+  .image6 {
+    position: absolute;
+    right: 210px;
+    top: 10px;
+  
+  }
+  .features-text7 {
+    display: inline-block;
+    position: absolute;
+    left: 900px;
+    top: 375px;
+  }
+  .image7 {
+    position: absolute;
+    right: 210px;
+    top: 10px;
+  
+  }
+  .features-text8 {
+    display: inline-block;
+    position: absolute;
+    left: 900px;
+    top: 475px;
+  }
+  .image8 {
+    position: absolute;
+    right: 210px;
+    top: 10px;
+  
+  }

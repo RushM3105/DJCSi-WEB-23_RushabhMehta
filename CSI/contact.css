@@ -1,0 +1,48 @@
+.contact {
+    height: 200px;
+    background-color: #4018b2;
+    
+
+    
+} 
+.last {
+    color: white;
+    font-family: HelveticaNowMTTextRegular, Helvetica, Arial, sans-serif;
+    
+    font-size: 40px;
+    width: 600px;
+    position: absolute;
+    left: 410px;
+    top: 1875px;
+    marg
+}
+.call1 {
+    color: white;
+    position: absolute;
+    left: 730px;
+    top: 1962px;
+    margin-top: 0px;  
+    cursor: pointer;
+}
+.call1:active{
+    opacity: 0.3;
+}
+.mail1 {
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 1962px;
+    margin-top: 0px; 
+    cursor: pointer;
+}
+.mail1:active{
+    opacity: 0.3;
+}
+.call {
+    width: 15px;
+    margin-top: 8px;
+}
+.mail {
+    width: 13px;
+    margin-top: 8px;
+}

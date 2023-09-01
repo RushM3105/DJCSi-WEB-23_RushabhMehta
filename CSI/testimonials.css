@@ -1,0 +1,133 @@
+.testimonials {
+    height: 400px;
+    background-color: white;
+    position: relative;
+}
+.name1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: smaller;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 5px;
+    
+}
+.company1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+    margin-top: 0px;
+   margin-bottom: 0%;
+   margin-left: 15px;
+   
+}
+.prof1 {
+   width: 75px;
+}
+.review1 {
+    position: absolute;
+    left: 130px;
+    top: 100px;
+}
+.star1 {
+     position: absolute;
+     right: -20px;
+     margin-top: 0%;
+     margin-bottom: 25px;
+}
+.review-bol1 {
+    position: absolute;
+    left: 75px;
+    top: 250px;
+    width: 250px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+}
+.name2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: smaller;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 5px;
+    
+}
+.company2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+    margin-top: 0px;
+   margin-bottom: 0%;
+   margin-left: 45px;
+   
+}
+.review-bol2 {
+    position: absolute;
+    left: 575px;
+    top: 250px;
+    width: 250px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+}
+.prof2 {
+    width: 75px;
+    margin-left: 40px;
+ }
+ .review2 {
+     position: absolute;
+     left: 600px;
+     top: 100px;
+ }
+ .star2 {
+      position: absolute;
+      right: 20px;
+      margin-top: 0%;
+      margin-bottom: 25px;
+ }
+
+
+ .name3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: smaller;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 30px;
+    
+}
+.company3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+    margin-top: 0px;
+   margin-bottom: 0%;
+   margin-left: 50px;
+   
+}
+.review-bol3 {
+    position: absolute;
+    left: 1050px;
+    top: 250px;
+    width: 250px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: x-small;
+}
+.prof3 {
+    width: 75px;
+    margin-left: 40px;
+ }
+ .review3 {
+     position: absolute;
+     left: 1080px;
+     top: 100px;
+ }
+ .star3 {
+      position: absolute;
+      right: -10px;
+      margin-top: 0%;
+      margin-bottom: 25px;
+ }
+
